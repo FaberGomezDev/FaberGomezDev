@@ -71,7 +71,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SurrealDB](https://img.shields.io/badge/SurrealDB-%23FF00FF.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
+![SurrealDB](https://img.shields.io/badge/SurrealDB-%AC1ED6FF.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
     
 <br>
 
