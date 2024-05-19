@@ -48,13 +48,13 @@
     
 - **Front-End Development**:
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vaadin](https://img.shields.io/badge/Vaadin-%2300B4F0.svg?style=for-the-badge&logo=vaadin&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-%23F46800.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-%23007ACC.svg?style=for-the-badge&logo=kivy&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-%23323330.svg?style=for-the-badge&logo=kivy&logoColor=%23FFDD00)
 
 
 <br>
