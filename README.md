@@ -43,7 +43,6 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
 <br>   
     
 - **Front-End Development**:
@@ -56,7 +55,6 @@
 ![JSF](https://img.shields.io/badge/JSF-%23F46800.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-%23323330.svg?style=for-the-badge&logo=kivy&logoColor=%23FFDD00)
 
-
 <br>
 
 - **Back-End Development**:
@@ -66,13 +64,14 @@
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-
-
 <br>
 
-- **Cloud Hosting**:
+- **Databases**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SurrealDB](https://img.shields.io/badge/SurrealDB-%2300C2FF.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
     
 <br>
 
