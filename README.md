@@ -17,8 +17,7 @@
 
 - A passionate Full stack developer
 - I enjoy contemplating nature in my spare time.
-- Personal website [link](https://www.0xabdulkhalid.ml](https://github.com/FaberGomezDev/FaberGomezDev/blob/main/README.md)
-- I’m currently open a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid](https://github.com/FaberGomezDev/FaberGomezDev/blob/main/README.md)
+- Personal website [link](https://github.com/FaberGomezDev/FaberGomezDev/blob/main/README.md)
 
 <br>
 
