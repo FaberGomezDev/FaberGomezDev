@@ -139,7 +139,7 @@
 
 <div align='center'>
 
-## <b>Que la creatividad, la inspiración y el entusiasmo siempre te acompañen en cada proyecto que emprendas.✨</b>
+## <b>Que cada proyecto sea una oportunidad para crear, aprender, innovar y dejar tu huella. ✨</b>
 
 </div>
 <br>
