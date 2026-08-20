@@ -17,7 +17,7 @@
 
 - A passionate Full stack developer
 - I enjoy contemplating nature in my spare time.
-- Personal website [link](https://github.com/FaberGomezDev/FaberGomezDev/blob/main/README.md)
+- Personal website [link](https://faber-gomez.vercel.app)
 
 <br>
 
